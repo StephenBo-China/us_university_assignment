@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "library(xlsx)\nray = read.csv('./data.csv',0)\nname<-names(table(ray$ideology==\"1\"))\nnrow(name)\n\n\n",
+    "created" : 1603026397996.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "3640264402",
+    "id" : "50EE9288",
+    "lastKnownWriteTime" : 4322657136,
+    "last_content_update" : 1603036659336,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

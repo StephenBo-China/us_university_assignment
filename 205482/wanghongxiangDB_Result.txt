@@ -1,0 +1,778 @@
+23530
+{
+	"_id" : ObjectId("573a1390f29313caabcd4135"),
+	"plot" : "Three men hammer on an anvil and pass a bottle of beer around.",
+	"genres" : [
+		"Short"
+	],
+	"runtime" : 1,
+	"cast" : [
+		"Charles Kayser",
+		"John Ott"
+	],
+	"num_mflix_comments" : 1,
+	"title" : "Blacksmith Scene",
+	"fullplot" : "A stationary camera looks at a large anvil with a blacksmith behind it and one on either side. The smith in the middle draws a heated metal rod from the fire, places it on the anvil, and all three begin a rhythmic hammering. After several blows, the metal goes back in the fire. One smith pulls out a bottle of beer, and they each take a swig. Then, out comes the glowing metal and the hammering resumes.",
+	"countries" : [
+		"USA"
+	],
+	"released" : ISODate("1893-05-09T00:00:00Z"),
+	"directors" : [
+		"William K.L. Dickson"
+	],
+	"rated" : "UNRATED",
+	"awards" : {
+		"wins" : 1,
+		"nominations" : 0,
+		"text" : "1 win."
+	},
+	"lastupdated" : "2015-08-26 00:03:50.133000000",
+	"year" : 1893,
+	"imdb" : {
+		"rating" : 6.2,
+		"votes" : 1189,
+		"id" : 5
+	},
+	"type" : "movie",
+	"tomatoes" : {
+		"viewer" : {
+			"rating" : 3,
+			"numReviews" : 184,
+			"meter" : 32
+		},
+		"lastUpdated" : ISODate("2015-06-28T18:34:09Z")
+	}
+}
+{
+	"_id" : ObjectId("573a1390f29313caabcd42e8"),
+	"plot" : "A group of bandits stage a brazen train hold-up, only to find a determined posse hot on their heels.",
+	"genres" : [
+		"Short",
+		"Western"
+	],
+	"runtime" : 11,
+	"cast" : [
+		"A.C. Abadie",
+		"Gilbert M. 'Broncho Billy' Anderson",
+		"George Barnes",
+		"Justus D. Barnes"
+	],
+	"poster" : "https://m.media-amazon.com/images/M/MV5BMTU3NjE5NzYtYTYyNS00MDVmLWIwYjgtMmYwYWIxZDYyNzU2XkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_SY1000_SX677_AL_.jpg",
+	"title" : "The Great Train Robbery",
+	"fullplot" : "Among the earliest existing films in American cinema - notable as the first film that presented a narrative story to tell - it depicts a group of cowboy outlaws who hold up a train and rob the passengers. They are then pursued by a Sheriff's posse. Several scenes have color included - all hand tinted.",
+	"languages" : [
+		"English"
+	],
+	"released" : ISODate("1903-12-01T00:00:00Z"),
+	"directors" : [
+		"Edwin S. Porter"
+	],
+	"rated" : "TV-G",
+	"awards" : {
+		"wins" : 1,
+		"nominations" : 0,
+		"text" : "1 win."
+	},
+	"lastupdated" : "2015-08-13 00:27:59.177000000",
+	"year" : 1903,
+	"imdb" : {
+		"rating" : 7.4,
+		"votes" : 9847,
+		"id" : 439
+	},
+	"countries" : [
+		"USA"
+	],
+	"type" : "movie",
+	"tomatoes" : {
+		"viewer" : {
+			"rating" : 3.7,
+			"numReviews" : 2559,
+			"meter" : 75
+		},
+		"fresh" : 6,
+		"critic" : {
+			"rating" : 7.6,
+			"numReviews" : 6,
+			"meter" : 100
+		},
+		"rotten" : 0,
+		"lastUpdated" : ISODate("2015-08-08T19:16:10Z")
+	}
+}
+{
+	"_id" : ObjectId("573a1390f29313caabcd4323"),
+	"plot" : "A young boy, opressed by his mother, goes on an outing in the country with a social welfare group where he dares to dream of a land where the cares of his ordinary life fade.",
+	"genres" : [
+		"Short",
+		"Drama",
+		"Fantasy"
+	],
+	"runtime" : 14,
+	"rated" : "UNRATED",
+	"cast" : [
+		"Martin Fuller",
+		"Mrs. William Bechtel",
+		"Walter Edwin",
+		"Ethel Jewett"
+	],
+	"num_mflix_comments" : 2,
+	"poster" : "https://m.media-amazon.com/images/M/MV5BMTMzMDcxMjgyNl5BMl5BanBnXkFtZTcwOTgxNjg4Mg@@._V1_SY1000_SX677_AL_.jpg",
+	"title" : "The Land Beyond the Sunset",
+	"fullplot" : "Thanks to the Fresh Air Fund, a slum child escapes his drunken mother for a day's outing in the country. Upon arriving, he and the other children are told a story about a mythical land of no pain. Rather then return to the slum at day's end, the lad seeks to journey to that beautiful land beyond the sunset.",
+	"languages" : [
+		"English"
+	],
+	"released" : ISODate("1912-10-28T00:00:00Z"),
+	"directors" : [
+		"Harold M. Shaw"
+	],
+	"writers" : [
+		"Dorothy G. Shore"
+	],
+	"awards" : {
+		"wins" : 1,
+		"nominations" : 0,
+		"text" : "1 win."
+	},
+	"lastupdated" : "2015-08-29 00:27:45.437000000",
+	"year" : 1912,
+	"imdb" : {
+		"rating" : 7.1,
+		"votes" : 448,
+		"id" : 488
+	},
+	"countries" : [
+		"USA"
+	],
+	"type" : "movie",
+	"tomatoes" : {
+		"viewer" : {
+			"rating" : 3.7,
+			"numReviews" : 53,
+			"meter" : 67
+		},
+		"lastUpdated" : ISODate("2015-04-27T19:06:35Z")
+	}
+}
+{
+	"_id" : ObjectId("573a1390f29313caabcd446f"),
+	"plot" : "A greedy tycoon decides, on a whim, to corner the world market in wheat. This doubles the price of bread, forcing the grain's producers into charity lines and further into poverty. The film...",
+	"genres" : [
+		"Short",
+		"Drama"
+	],
+	"runtime" : 14,
+	"cast" : [
+		"Frank Powell",
+		"Grace Henderson",
+		"James Kirkwood",
+		"Linda Arvidson"
+	],
+	"num_mflix_comments" : 1,
+	"title" : "A Corner in Wheat",
+	"fullplot" : "A greedy tycoon decides, on a whim, to corner the world market in wheat. This doubles the price of bread, forcing the grain's producers into charity lines and further into poverty. The film continues to contrast the ironic differences between the lives of those who work to grow the wheat and the life of the man who dabbles in its sale for profit.",
+	"languages" : [
+		"English"
+	],
+	"released" : ISODate("1909-12-13T00:00:00Z"),
+	"directors" : [
+		"D.W. Griffith"
+	],
+	"rated" : "G",
+	"awards" : {
+		"wins" : 1,
+		"nominations" : 0,
+		"text" : "1 win."
+	},
+	"lastupdated" : "2015-08-13 00:46:30.660000000",
+	"year" : 1909,
+	"imdb" : {
+		"rating" : 6.6,
+		"votes" : 1375,
+		"id" : 832
+	},
+	"countries" : [
+		"USA"
+	],
+	"type" : "movie",
+	"tomatoes" : {
+		"viewer" : {
+			"rating" : 3.6,
+			"numReviews" : 109,
+			"meter" : 73
+		},
+		"lastUpdated" : ISODate("2015-05-11T18:36:53Z")
+	}
+}
+{
+	"_id" : ObjectId("573a1390f29313caabcd4803"),
+	"plot" : "Cartoon figures announce, via comic strip balloons, that they will move - and move they do, in a wildly exaggerated style.",
+	"genres" : [
+		"Animation",
+		"Short",
+		"Comedy"
+	],
+	"runtime" : 7,
+	"cast" : [
+		"Winsor McCay"
+	],
+	"num_mflix_comments" : 1,
+	"poster" : "https://m.media-amazon.com/images/M/MV5BYzg2NjNhNTctMjUxMi00ZWU4LWI3ZjYtNTI0NTQxNThjZTk2XkEyXkFqcGdeQXVyNzg5OTk2OA@@._V1_SY1000_SX677_AL_.jpg",
+	"title" : "Winsor McCay, the Famous Cartoonist of the N.Y. Herald and His Moving Comics",
+	"fullplot" : "Cartoonist Winsor McCay agrees to create a large set of drawings that will be photographed and made into a motion picture. The job requires plenty of drawing supplies, and the cartoonist must also overcome some mishaps caused by an assistant. Finally, the work is done, and everyone can see the resulting animated picture.",
+	"languages" : [
+		"English"
+	],
+	"released" : ISODate("1911-04-08T00:00:00Z"),
+	"directors" : [
+		"Winsor McCay",
+		"J. Stuart Blackton"
+	],
+	"writers" : [
+		"Winsor McCay (comic strip \"Little Nemo in Slumberland\")",
+		"Winsor McCay (screenplay)"
+	],
+	"awards" : {
+		"wins" : 1,
+		"nominations" : 0,
+		"text" : "1 win."
+	},
+	"lastupdated" : "2015-08-29 01:09:03.030000000",
+	"year" : 1911,
+	"imdb" : {
+		"rating" : 7.3,
+		"votes" : 1034,
+		"id" : 1737
+	},
+	"countries" : [
+		"USA"
+	],
+	"type" : "movie",
+	"tomatoes" : {
+		"viewer" : {
+			"rating" : 3.4,
+			"numReviews" : 89,
+			"meter" : 47
+		},
+		"lastUpdated" : ISODate("2015-08-20T18:51:24Z")
+	}
+}
+{
+	"_id" : ObjectId("573a13cef29313caabd86ecc"),
+	"plot" : "Through intimate interviews, provocative art, and rare, historical film and video footage, this feature documentary reveals how art addressing political consequences of discrimination and ...",
+	"genres" : [
+		"Documentary"
+	],
+	"runtime" : 83,
+	"metacritic" : 70,
+	"cast" : [
+		"Lynn Hershman-Leeson"
+	],
+	"num_mflix_comments" : 2,
+	"poster" : "https://m.media-amazon.com/images/M/MV5BMjE1MDU1MDA2Nl5BMl5BanBnXkFtZTcwNTQ2Mzk2NQ@@._V1_SY1000_SX677_AL_.jpg",
+	"title" : "!Women Art Revolution",
+	"fullplot" : "Through intimate interviews, provocative art, and rare, historical film and video footage, this feature documentary reveals how art addressing political consequences of discrimination and violence, the Feminist Art Revolution radically transformed the art and culture of our times.",
+	"languages" : [
+		"English"
+	],
+	"released" : ISODate("2011-06-01T00:00:00Z"),
+	"directors" : [
+		"Lynn Hershman-Leeson"
+	],
+	"awards" : {
+		"wins" : 0,
+		"nominations" : 2,
+		"text" : "2 nominations."
+	},
+	"lastupdated" : "2015-04-02 00:54:39.997000000",
+	"year" : 2010,
+	"imdb" : {
+		"rating" : 6.7,
+		"votes" : 142,
+		"id" : 1699720
+	},
+	"countries" : [
+		"USA"
+	],
+	"type" : "movie",
+	"tomatoes" : {
+		"website" : "http://www.womenartrevolution.com/",
+		"viewer" : {
+			"rating" : 3.7,
+			"numReviews" : 203,
+			"meter" : 60
+		},
+		"dvd" : ISODate("2012-03-19T00:00:00Z"),
+		"critic" : {
+			"rating" : 6.9,
+			"numReviews" : 24,
+			"meter" : 83
+		},
+		"boxOffice" : "$51.5k",
+		"consensus" : "Though a tad messy in spots, !Women Art Revolution is a worthy chronicle of an influential art movement seldom explored or documented.",
+		"rotten" : 4,
+		"production" : "Zeitgeist Films",
+		"lastUpdated" : ISODate("2015-07-16T18:12:36Z"),
+		"fresh" : 20
+	}
+}
+{
+	"_id" : ObjectId("573a13e6f29313caabdc56c7"),
+	"plot" : "From her childhood bedroom in the Chicago suburbs, an American teenage girl uses social media to run the revolution in Syria. Armed with Facebook, Twitter, Skype and cameraphones, she helps...",
+	"genres" : [
+		"Documentary",
+		"Action",
+		"Drama"
+	],
+	"runtime" : 74,
+	"title" : "#chicagoGirl: The Social Network Takes on a Dictator",
+	"poster" : "https://m.media-amazon.com/images/M/MV5BMTgwODIxMjM3NV5BMl5BanBnXkFtZTgwMzYzODA2NjE@._V1_SY1000_SX677_AL_.jpg",
+	"countries" : [
+		"USA",
+		"Syria"
+	],
+	"fullplot" : "From her childhood bedroom in the Chicago suburbs, an American teenage girl uses social media to run the revolution in Syria. Armed with Facebook, Twitter, Skype and cameraphones, she helps her social network in Damascus and Homs braves snipers and shelling in the streets and the world the human rights atrocities of one of the most brutal dictators. But as the revolution rages on, everyone in the network must decide what is the most effective way to fight a dictator: social media or AK-47s.",
+	"languages" : [
+		"English"
+	],
+	"released" : ISODate("2014-05-18T00:00:00Z"),
+	"directors" : [
+		"Joe Piscatella"
+	],
+	"writers" : [
+		"Joe Piscatella"
+	],
+	"awards" : {
+		"wins" : 2,
+		"nominations" : 2,
+		"text" : "2 wins & 2 nominations."
+	},
+	"lastupdated" : "2015-09-01 00:08:44.710000000",
+	"year" : 2013,
+	"imdb" : {
+		"rating" : 7.1,
+		"votes" : 77,
+		"id" : 3060338
+	},
+	"type" : "movie",
+	"tomatoes" : {
+		"viewer" : {
+			"rating" : 4.5,
+			"numReviews" : 4
+		},
+		"lastUpdated" : ISODate("2015-09-10T19:14:36Z")
+	}
+}
+{
+	"_id" : ObjectId("573a1396f29313caabce48c4"),
+	"plot" : "A bank security expert plots with a call girl to rob three safety deposit boxes containing $1.5 million in cash belonging to three very different criminals from a high-tech security bank in Hamburg, Germany.",
+	"genres" : [
+		"Comedy",
+		"Crime",
+		"Drama"
+	],
+	"runtime" : 121,
+	"rated" : "R",
+	"cast" : [
+		"Warren Beatty",
+		"Goldie Hawn",
+		"Gert Frèbe",
+		"Robert Webber"
+	],
+	"poster" : "https://m.media-amazon.com/images/M/MV5BZTdkYmY1OGQtYTY5Yi00OWZhLWJjZDEtMDIwZjc4ZjI2ODA5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SY1000_SX677_AL_.jpg",
+	"title" : "$",
+	"fullplot" : "Several criminals use safe deposit boxes in a German bank to store large amounts of illicit cash. An employee of the bank learns who they are by means of a prostitute they all patronize, and devises a clever plan with her to steal the money. Now the criminals can't go to the police, but they can try to steal the money back...",
+	"languages" : [
+		"English",
+		"German"
+	],
+	"released" : ISODate("1971-12-17T00:00:00Z"),
+	"directors" : [
+		"Richard Brooks"
+	],
+	"writers" : [
+		"Richard Brooks"
+	],
+	"awards" : {
+		"wins" : 0,
+		"nominations" : 1,
+		"text" : "1 nomination."
+	},
+	"lastupdated" : "2015-09-05 00:51:51.667000000",
+	"year" : 1971,
+	"imdb" : {
+		"rating" : 6.5,
+		"votes" : 1608,
+		"id" : 68152
+	},
+	"countries" : [
+		"USA"
+	],
+	"type" : "movie",
+	"tomatoes" : {
+		"viewer" : {
+			"rating" : 3.4,
+			"numReviews" : 388,
+			"meter" : 55
+		},
+		"dvd" : ISODate("2008-09-23T00:00:00Z"),
+		"critic" : {
+			"rating" : 6.4,
+			"numReviews" : 6,
+			"meter" : 83
+		},
+		"lastUpdated" : ISODate("2015-09-14T22:48:32Z"),
+		"rotten" : 1,
+		"production" : "Sony Pictures Entertainment",
+		"fresh" : 5
+	}
+}
+{
+	"_id" : ObjectId("573a13b8f29313caabd4bd33"),
+	"fullplot" : "A stop-motion animated story about people living in a Sydney apartment complex looking for meaning in their lives.",
+	"imdb" : {
+		"rating" : 6.7,
+		"votes" : 2532,
+		"id" : 790799
+	},
+	"year" : 2008,
+	"plot" : "A stop-motion animated story about people living in a Sydney apartment complex looking for meaning in their lives.",
+	"genres" : [
+		"Animation",
+		"Drama"
+	],
+	"rated" : "R",
+	"metacritic" : 68,
+	"title" : "$9.99",
+	"lastupdated" : "2015-08-26 00:49:20.383000000",
+	"languages" : [
+		"English"
+	],
+	"writers" : [
+		"Etgar Keret (screenplay)",
+		"Etgar Keret (short stories)",
+		"Tatia Rosenthal (screenplay)"
+	],
+	"type" : "movie",
+	"tomatoes" : {
+		"website" : "http://www.9dollars99movie.com/",
+		"viewer" : {
+			"rating" : 3.2,
+			"numReviews" : 5276,
+			"meter" : 55
+		},
+		"dvd" : ISODate("2010-02-23T00:00:00Z"),
+		"critic" : {
+			"rating" : 6.6,
+			"numReviews" : 55,
+			"meter" : 75
+		},
+		"lastUpdated" : ISODate("2015-09-12T18:01:04Z"),
+		"consensus" : "Its storyline isn't as wondrous as its visuals, but $9.99 has a sophistication and handmade charm that sets it apart from the animated pack.",
+		"rotten" : 14,
+		"production" : "Regent Releasing",
+		"fresh" : 41
+	},
+	"poster" : "https://m.media-amazon.com/images/M/MV5BMTMwNzM1MzE0Nl5BMl5BanBnXkFtZTcwOTA1NTQwMg@@._V1_SY1000_SX677_AL_.jpg",
+	"num_mflix_comments" : 3,
+	"released" : ISODate("2009-09-17T00:00:00Z"),
+	"awards" : {
+		"wins" : 3,
+		"nominations" : 4,
+		"text" : "3 wins & 4 nominations."
+	},
+	"countries" : [
+		"Israel",
+		"Australia"
+	],
+	"cast" : [
+		"Geoffrey Rush",
+		"Anthony LaPaglia",
+		"Samuel Johnson",
+		"Barry Otto"
+	],
+	"directors" : [
+		"Tatia Rosenthal"
+	],
+	"runtime" : 78
+}
+{
+	"_id" : ObjectId("573a13d9f29313caabda9ffb"),
+	"plot" : "Celebrity photographer Kevin Mazur gives an all access pass to life behind the velvet rope and in front of the camera.",
+	"genres" : [
+		"Documentary"
+	],
+	"runtime" : 89,
+	"metacritic" : 53,
+	"cast" : [
+		"Jennifer Aniston",
+		"Marc Anthony",
+		"Rosanna Arquette",
+		"Sheryl Crow"
+	],
+	"poster" : "https://m.media-amazon.com/images/M/MV5BMjgwNzc5NTExNl5BMl5BanBnXkFtZTcwMTIxMjA4OA@@._V1_SY1000_SX677_AL_.jpg",
+	"title" : "$ellebrity",
+	"fullplot" : "Celebrity photographer Kevin Mazur gives an all access pass to life behind the velvet rope and in front of the camera.",
+	"languages" : [
+		"English"
+	],
+	"released" : ISODate("2013-01-11T00:00:00Z"),
+	"directors" : [
+		"Kevin Mazur"
+	],
+	"rated" : "NOT RATED",
+	"awards" : {
+		"wins" : 0,
+		"nominations" : 1,
+		"text" : "1 nomination."
+	},
+	"lastupdated" : "2015-09-11 00:16:43.590000000",
+	"year" : 2012,
+	"imdb" : {
+		"rating" : 5.4,
+		"votes" : 935,
+		"id" : 2258233
+	},
+	"countries" : [
+		"USA"
+	],
+	"type" : "movie",
+	"tomatoes" : {
+		"website" : "http://www.sellebritythemovie.com/",
+		"viewer" : {
+			"rating" : 3.3,
+			"numReviews" : 567,
+			"meter" : 53
+		},
+		"dvd" : ISODate("2014-06-23T00:00:00Z"),
+		"critic" : {
+			"rating" : 6.2,
+			"numReviews" : 7,
+			"meter" : 57
+		},
+		"lastUpdated" : ISODate("2015-09-11T18:04:14Z"),
+		"rotten" : 3,
+		"production" : "Independent Pictures",
+		"fresh" : 4
+	}
+}
+{
+	"title" : "!Women Art Revolution",
+	"awards" : {
+		"wins" : 0,
+		"nominations" : 2,
+		"text" : "2 nominations."
+	}
+}
+{
+	"title" : "#chicagoGirl: The Social Network Takes on a Dictator",
+	"awards" : {
+		"wins" : 2,
+		"nominations" : 2,
+		"text" : "2 wins & 2 nominations."
+	}
+}
+{
+	"title" : "$",
+	"awards" : {
+		"wins" : 0,
+		"nominations" : 1,
+		"text" : "1 nomination."
+	}
+}
+{
+	"title" : "$9.99",
+	"awards" : {
+		"wins" : 3,
+		"nominations" : 4,
+		"text" : "3 wins & 4 nominations."
+	}
+}
+{
+	"title" : "$ellebrity",
+	"awards" : {
+		"wins" : 0,
+		"nominations" : 1,
+		"text" : "1 nomination."
+	}
+}
+{
+	"title" : "èxtasis",
+	"awards" : {
+		"wins" : 1,
+		"nominations" : 4,
+		"text" : "1 win & 4 nominations."
+	}
+}
+{
+	"title" : "èvocateur: The Morton Downey Jr. Movie",
+	"awards" : {
+		"wins" : 0,
+		"nominations" : 1,
+		"text" : "1 nomination."
+	}
+}
+{
+	"title" : "èrido Movie",
+	"awards" : {
+		"wins" : 13,
+		"nominations" : 17,
+		"text" : "13 wins & 17 nominations."
+	}
+}
+{
+	"title" : "èon Flux",
+	"awards" : {
+		"wins" : 0,
+		"nominations" : 2,
+		"text" : "2 nominations."
+	}
+}
+{
+	"title" : "èlisa",
+	"awards" : {
+		"wins" : 1,
+		"nominations" : 2,
+		"text" : "1 win & 2 nominations."
+	}
+}
+{ "title" : "12 Years a Slave", "awards" : { "wins" : 267, "nominations" : 256, "text" : "Won 3 Oscars. Another 264 wins & 256 nominations." } }
+{ "_id" : ObjectId("573a13d5f29313caabd9cae7"), "fullplot" : "Based on an incredible true story of one man's fight for survival and freedom. In the pre-Civil War United States, Solomon Northup (Chiwetel Ejiofor), a free black man from upstate New York, is abducted and sold into slavery. Facing cruelty (personified by a malevolent slave owner, portrayed by Michael Fassbender), as well as unexpected kindnesses, Solomon struggles not only to stay alive, but to retain his dignity. In the twelfth year of his unforgettable odyssey, Solomon's chance meeting with a Canadian abolitionist (Brad Pitt) will forever alter his life.", "imdb" : { "rating" : 8.1, "votes" : 363143, "id" : 2024544 }, "year" : 2013, "plot" : "In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.", "genres" : [ "Biography", "Drama", "History" ], "rated" : "R", "metacritic" : 97, "title" : "12 Years a Slave", "lastupdated" : "2015-08-22 00:05:56.030000000", "languages" : [ "English" ], "writers" : [ "John Ridley (screenplay)", "Solomon Northup (based on \"Twelve Years a Slave\" by)" ], "type" : "movie", "tomatoes" : { "viewer" : { "rating" : 0, "numReviews" : 0 }, "lastUpdated" : ISODate("2015-08-22T18:57:07Z") }, "poster" : "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_SY1000_SX677_AL_.jpg", "num_mflix_comments" : 2, "released" : ISODate("2013-11-08T00:00:00Z"), "awards" : { "wins" : 267, "nominations" : 256, "text" : "Won 3 Oscars. Another 264 wins & 256 nominations." }, "countries" : [ "USA", "UK" ], "cast" : [ "Chiwetel Ejiofor", "Dwight Henry", "Dickie Gravois", "Bryan Batt" ], "directors" : [ "Steve McQueen" ], "runtime" : 134 }
+{ "_id" : ObjectId("573a1392f29313caabcda241"), "plot" : "American honeymooners in Hungary are trapped in the home of a Satan- worshiping priest when the bride is taken there for medical help following a road accident.", "genres" : [ "Horror", "Crime", "Adventure" ], "runtime" : 65, "cast" : [ "Boris Karloff", "Bela Lugosi", "David Manners", "Julie Bishop" ], "poster" : "https://m.media-amazon.com/images/M/MV5BNTkzZmMzZDEtNGVlNC00MDdlLThjZDctOTg2YzY2YjMxN2IxXkEyXkFqcGdeQXVyMTE2NzA0Ng@@._V1_SY1000_SX677_AL_.jpg", "title" : "The Black Cat", "fullplot" : "Honeymooning in Hungary, Joan and Peter Allison share their train compartment with Dr. Vitus Verdegast, a courtly but tragic man who is returning to the remains of the town he defended before becoming a prisoner of war for fifteen years. When their hotel-bound bus crashes in a mountain storm and Joan is injured, the travellers seek refuge in the home, built fortress-like upon the site of a bloody battlefield, of famed architect Hjalmar Poelzig. There, cat-phobic Verdegast learns his wife's fate, grieves for his lost daughter, and must play a game of chess for Allison's life.", "languages" : [ "English", "Latin", "Hungarian" ], "released" : ISODate("1934-05-07T00:00:00Z"), "directors" : [ "Edgar G. Ulmer" ], "writers" : [ "Edgar Allan Poe (suggested by a story by)", "Peter Ruric (screenplay)", "Edgar G. Ulmer (story)", "Peter Ruric (story)" ], "awards" : { "wins" : 1, "nominations" : 0, "text" : "1 win." }, "lastupdated" : "2015-09-15 03:21:38.007000000", "year" : 1934, "imdb" : { "rating" : 7.2, "votes" : 5624, "id" : 24894 }, "countries" : [ "USA" ], "type" : "movie", "tomatoes" : { "viewer" : { "rating" : 3.7, "numReviews" : 3430, "meter" : 73 }, "dvd" : ISODate("1992-09-10T00:00:00Z"), "critic" : { "rating" : 7.6, "numReviews" : 30, "meter" : 87 }, "lastUpdated" : ISODate("2015-09-11T18:18:41Z"), "consensus" : "Making the most of its Karloff-Lugosi star pairing and loads of creepy atmosphere, The Black Cat is an early classic in the Universal monster movie library.", "rotten" : 4, "production" : "Universal", "fresh" : 26 } }
+{ "_id" : ObjectId("573a1394f29313caabcdf2bb"), "plot" : "A ferocious dinosaur awakened by an Arctic atomic test terrorizes the North Atlantic and ultimately New York City.", "genres" : [ "Adventure", "Horror", "Sci-Fi" ], "runtime" : 80, "rated" : "APPROVED", "cast" : [ "Paul Hubschmid", "Paula Raymond", "Cecil Kellaway", "Kenneth Tobey" ], "poster" : "https://m.media-amazon.com/images/M/MV5BOTM4MzNhMzMtNGU5Zi00MWJlLTgzYmEtY2RiM2Y5NGNmNzlhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_SX677_AL_.jpg", "title" : "The Beast from 20,000 Fathoms", "fullplot" : "As a result of an arctic nuclear test, a carnivorous dinosaur thaws out and starts making its way down the east coast of North America. Professor Tom Nesbitt, only witness to the beast's existence, is not believed, even when he identifies it as a \"rhedosaurus\" to paleontologist Thurgood Elson. All doubts disappear, however, when Elson is swallowed whole during an oceanic bathysphere excursion to search for the creature. Soon thereafter the rhedosaurus emerges from the sea and lays waste to Manhattan Island until Nesbitt comes up with a plan to try to stop the seemingly indestructible beast.", "languages" : [ "English", "French" ], "released" : ISODate("1953-06-13T00:00:00Z"), "directors" : [ "Eugène Louriè" ], "writers" : [ "Lou Morheim (screenplay)", "Fred Freiberger (screenplay)", "Ray Bradbury (story)" ], "awards" : { "wins" : 0, "nominations" : 1, "text" : "1 nomination." }, "lastupdated" : "2015-08-21 00:12:25.313000000", "year" : 1953, "imdb" : { "rating" : 6.7, "votes" : 4311, "id" : 45546 }, "countries" : [ "USA" ], "type" : "movie", "tomatoes" : { "viewer" : { "rating" : 3.5, "numReviews" : 2600, "meter" : 68 }, "dvd" : ISODate("2003-10-21T00:00:00Z"), "critic" : { "rating" : 6.6, "numReviews" : 16, "meter" : 94 }, "lastUpdated" : ISODate("2015-08-23T19:00:48Z"), "rotten" : 1, "production" : "Warner Bros. Pictures", "fresh" : 15 } }
+{ "_id" : ObjectId("573a1394f29313caabcdf7e3"), "plot" : "A strange prehistoric beast lurks in the depths of the Amazonian jungle. A group of scientists try to capture the animal and bring it back to civilization for study.", "genres" : [ "Adventure", "Horror", "Sci-Fi" ], "runtime" : 79, "rated" : "APPROVED", "cast" : [ "Richard Carlson", "Julie Adams", "Richard Denning", "Antonio Moreno" ], "poster" : "https://m.media-amazon.com/images/M/MV5BMjMwMjA5NDkyMl5BMl5BanBnXkFtZTgwMzYyMTY2MTE@._V1_SY1000_SX677_AL_.jpg", "title" : "Creature from the Black Lagoon", "fullplot" : "A scientific expedition searching for fossils along the Amazon River discovers a prehistoric Gill-Man in the legendary Black Lagoon. The explorers capture the mysterious creature, but it breaks free. The Gill-Man returns to kidnap the lovely Kay, fiancèe of one in the expedition, with whom it has fallen in love.", "languages" : [ "English" ], "released" : ISODate("1954-03-05T00:00:00Z"), "directors" : [ "Jack Arnold" ], "writers" : [ "Harry Essex (screenplay)", "Arthur A. Ross (screenplay)", "Maurice Zimm (story)" ], "awards" : { "wins" : 1, "nominations" : 0, "text" : "1 win." }, "lastupdated" : "2015-09-02 00:19:00.287000000", "year" : 1954, "imdb" : { "rating" : 7, "votes" : 15637, "id" : 46876 }, "countries" : [ "USA" ], "type" : "movie", "tomatoes" : { "viewer" : { "rating" : 3.3, "numReviews" : 23211, "meter" : 73 }, "dvd" : ISODate("2001-08-28T00:00:00Z"), "critic" : { "rating" : 6.9, "numReviews" : 32, "meter" : 84 }, "lastUpdated" : ISODate("2015-08-23T19:01:06Z"), "rotten" : 5, "production" : "Universal Pictures", "fresh" : 27 } }
+{ "_id" : ObjectId("573a1395f29313caabce30a9"), "plot" : "A gigantic bat emerges from a volcano to terrorize Japan and only one thing can stop it...Gamera!", "genres" : [ "Action", "Adventure", "Horror" ], "runtime" : 87, "cast" : [ "Kèjirè Hongè", "Kichijirè Ueda", "Reiko Kasahara", "Naoyuki Abe" ], "num_mflix_comments" : 1, "poster" : "https://m.media-amazon.com/images/M/MV5BYmU5MDNmOTktOGU1My00NTViLWE2OWMtMjgxMGZmNzM2MmMyXkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_SY1000_SX677_AL_.jpg", "title" : "Daikaijè kèchèsen: Gamera tai Gyaosu", "fullplot" : "Gamera's back, and just in time to save Japan from Gaos, a mysterious bat-like creature awakened by a volcanic eruption. As in the first Gamera movie, a young boy establishes an emotional link with Gamera, and the two work together, with the help of the world's scientists, to put and end to Gaos' violent rampage.", "languages" : [ "Japanese" ], "released" : ISODate("1967-03-15T00:00:00Z"), "directors" : [ "Noriaki Yuasa" ], "writers" : [ "Niisan Takahashi" ], "awards" : { "wins" : 1, "nominations" : 0, "text" : "1 win." }, "lastupdated" : "2015-09-14 18:05:59.123000000", "year" : 1967, "imdb" : { "rating" : 4.3, "votes" : 1175, "id" : 61695 }, "countries" : [ "Japan" ], "type" : "movie", "tomatoes" : { "viewer" : { "rating" : 3, "numReviews" : 553, "meter" : 34 }, "lastUpdated" : ISODate("2015-05-25T19:07:56Z") } }
+{ "_id" : ObjectId("573a1397f29313caabce616b"), "plot" : "A petroleum exploration expedition comes to an isolated island and encounters a colossal giant gorilla.", "genres" : [ "Adventure", "Fantasy", "Horror" ], "runtime" : 134, "rated" : "PG", "cast" : [ "Jeff Bridges", "Charles Grodin", "Jessica Lange", "John Randolph" ], "num_mflix_comments" : 1, "poster" : "https://m.media-amazon.com/images/M/MV5BYWNlNjlmYjktNjhiNy00YTQzLWEzYTUtYzc0MDdjYTlmNzUyXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_SX677_AL_.jpg", "title" : "King Kong", "fullplot" : "An expedition of the \"Petrox\" company, is exploring in search of petrol. A strange island where they arrive is the home of a giant ape, King Kong, that is captured by the expedition in order to make money exhibiting it to the world. When in the U.S. the huge gorilla becomes restless, trying to return home...", "languages" : [ "English" ], "released" : ISODate("1976-12-17T00:00:00Z"), "directors" : [ "John Guillermin" ], "writers" : [ "James Ashmore Creelman", "Ruth Rose", "Merian C. Cooper (from an idea conceived by)", "Edgar Wallace (from an idea conceived by)", "Lorenzo Semple Jr. (screenplay)" ], "awards" : { "wins" : 7, "nominations" : 1, "text" : "Nominated for 2 Oscars. Another 5 wins & 1 nomination." }, "lastupdated" : "2015-08-29 00:37:02.983000000", "year" : 1976, "imdb" : { "rating" : 5.8, "votes" : 20784, "id" : 74751 }, "countries" : [ "USA" ], "type" : "movie", "tomatoes" : { "viewer" : { "rating" : 2.2, "numReviews" : 27 }, "dvd" : ISODate("2006-11-28T00:00:00Z"), "lastUpdated" : ISODate("2015-09-16T20:20:54Z") } }
+{ "_id" : ObjectId("573a139af29313caabceefa7"), "fullplot" : "Based on the true story of the ill-fated 13th Apollo mission bound for the moon. Astronauts Lovell, Haise and Swigert were scheduled to fly Apollo 14, but are moved up to 13. It's 1970, and America have already achieved their lunar landing goal, so there's little interest in this \"routine\" flight.. until that is, things go very wrong, and prospects of a safe return fade.", "imdb" : { "rating" : 7.6, "votes" : 193096, "id" : 112384 }, "year" : 1995, "plot" : "NASA must devise a strategy to return Apollo 13 to Earth safely after the spacecraft undergoes massive internal damage putting the lives of the three astronauts on board in jeopardy.", "genres" : [ "Adventure", "Drama", "History" ], "rated" : "PG", "metacritic" : 77, "title" : "Apollo 13", "lastupdated" : "2015-09-05 00:34:38.597000000", "languages" : [ "English" ], "writers" : [ "Jim Lovell (book)", "Jeffrey Kluger (book)", "William Broyles Jr. (screenplay)", "Al Reinert (screenplay)" ], "type" : "movie", "tomatoes" : { "website" : "http://www.imax.com/apollo13", "viewer" : { "rating" : 3.6, "numReviews" : 430746, "meter" : 86 }, "dvd" : ISODate("2004-09-07T00:00:00Z"), "critic" : { "rating" : 8.2, "numReviews" : 85, "meter" : 95 }, "boxOffice" : "$1.1M", "consensus" : "In recreating the troubled space mission, Apollo 13 pulls no punches: it's a masterfully told drama from director Ron Howard, bolstered by an ensemble of solid performances.", "rotten" : 4, "production" : "Universal Pictures", "lastUpdated" : ISODate("2015-09-13T09:51:48Z"), "fresh" : 81 }, "poster" : "https://m.media-amazon.com/images/M/MV5BNjEzYjJmNzgtNDkwNy00MTQ4LTlmMWMtNzA4YjE2NjI0ZDg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_SX677_AL_.jpg", "num_mflix_comments" : 1, "released" : ISODate("1995-06-30T00:00:00Z"), "awards" : { "wins" : 34, "nominations" : 38, "text" : "Won 2 Oscars. Another 32 wins & 38 nominations." }, "countries" : [ "USA" ], "cast" : [ "Tom Hanks", "Bill Paxton", "Kevin Bacon", "Gary Sinise" ], "directors" : [ "Ron Howard" ], "runtime" : 140 }
+{ "_id" : ObjectId("573a139af29313caabcef887"), "fullplot" : "A little boy named Andy loves to be in his room, playing with his toys, especially his doll named \"Woody\". But, what do the toys do when Andy is not with them, they come to life. Woody believes that he has life (as a toy) good. However, he must worry about Andy's family moving, and what Woody does not know is about Andy's birthday party. Woody does not realize that Andy's mother gave him an action figure known as Buzz Lightyear, who does not believe that he is a toy, and quickly becomes Andy's new favorite toy. Woody, who is now consumed with jealousy, tries to get rid of Buzz. Then, both Woody and Buzz are now lost. They must find a way to get back to Andy before he moves without them, but they will have to pass through a ruthless toy killer, Sid Phillips.", "imdb" : { "rating" : 8.3, "votes" : 542659, "id" : 114709 }, "year" : 1995, "plot" : "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.", "genres" : [ "Animation", "Adventure", "Comedy" ], "rated" : "G", "metacritic" : 92, "title" : "Toy Story", "lastupdated" : "2015-08-31 00:06:17.687000000", "languages" : [ "English" ], "writers" : [ "John Lasseter (original story by)", "Pete Docter (original story by)", "Andrew Stanton (original story by)", "Joe Ranft (original story by)", "Joss Whedon (screenplay)", "Andrew Stanton (screenplay)", "Joel Cohen (screenplay)", "Alec Sokolow (screenplay)" ], "type" : "movie", "tomatoes" : { "website" : "http://www.disney.com/ToyStory", "viewer" : { "rating" : 3.7, "numReviews" : 1103788, "meter" : 92 }, "dvd" : ISODate("2001-03-20T00:00:00Z"), "critic" : { "rating" : 9, "numReviews" : 78, "meter" : 100 }, "lastUpdated" : ISODate("2015-09-12T18:12:39Z"), "consensus" : "Entertaining as it is innovative, Toy Story reinvigorated animation while heralding the arrival of Pixar as a family-friendly force to be reckoned with.", "rotten" : 0, "production" : "Buena Vista", "fresh" : 78 }, "poster" : "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SY1000_SX677_AL_.jpg", "num_mflix_comments" : 380, "released" : ISODate("1995-11-22T00:00:00Z"), "awards" : { "wins" : 26, "nominations" : 14, "text" : "Nominated for 3 Oscars. Another 23 wins & 14 nominations." }, "countries" : [ "USA" ], "cast" : [ "Tom Hanks", "Tim Allen", "Don Rickles", "Jim Varney" ], "directors" : [ "John Lasseter" ], "runtime" : 81 }
+{ "_id" : ObjectId("573a139af29313caabcf0d8b"), "fullplot" : "While Andy is away at summer camp Woody has been toynapped by Al McWiggin, a greedy collector and proprietor of \"Al's Toy Barn\"! In this all-out rescue mission, Buzz and his friends Mr. Potato Head, Slinky Dog, Rex and Hamm springs into action to rescue Woody from winding up as a museum piece. They must find a way to save him before he gets sold in Japan forever and they'll never see him again!", "imdb" : { "rating" : 7.9, "votes" : 346655, "id" : 120363 }, "year" : 1999, "plot" : "When Woody is stolen by a toy collector, Buzz and his friends vow to rescue him, but Woody finds the idea of immortality in a museum tempting.", "genres" : [ "Animation", "Adventure", "Comedy" ], "rated" : "G", "metacritic" : 88, "title" : "Toy Story 2", "lastupdated" : "2015-09-07 00:06:19.897000000", "languages" : [ "English", "Arabic", "Spanish" ], "writers" : [ "John Lasseter (original story by)", "Pete Docter (original story by)", "Ash Brannon (original story by)", "Andrew Stanton (original story by)", "Andrew Stanton (screenplay)", "Rita Hsiao (screenplay)", "Doug Chamberlin (screenplay)", "Chris Webb (screenplay)" ], "type" : "movie", "tomatoes" : { "website" : "http://disney.go.com/toystory/", "viewer" : { "rating" : 3.5, "numReviews" : 994797, "meter" : 86 }, "dvd" : ISODate("2000-10-17T00:00:00Z"), "critic" : { "rating" : 8.6, "numReviews" : 163, "meter" : 100 }, "lastUpdated" : ISODate("2015-09-12T18:02:14Z"), "consensus" : "The rare sequel that arguably improves on its predecessor, Toy Story 2 uses inventive storytelling, gorgeous animation, and a talented cast to deliver another rich moviegoing experience for all ages.", "rotten" : 0, "production" : "Buena Vista Pictures", "fresh" : 163 }, "poster" : "https://m.media-amazon.com/images/M/MV5BMWM5ZDcxMTYtNTEyNS00MDRkLWI3YTItNThmMGExMWY4NDIwXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SY1000_SX677_AL_.jpg", "num_mflix_comments" : 405, "released" : ISODate("1999-11-24T00:00:00Z"), "awards" : { "wins" : 22, "nominations" : 24, "text" : "Nominated for 1 Oscar. Another 21 wins & 24 nominations." }, "countries" : [ "USA" ], "cast" : [ "Tom Hanks", "Tim Allen", "Joan Cusack", "Kelsey Grammer" ], "directors" : [ "John Lasseter", "Ash Brannon", "Lee Unkrich" ], "runtime" : 92 }
+{ "_id" : ObjectId("573a13abf29313caabd2418b"), "fullplot" : "This is the story of a young hero boy on Christmas Eve who boards on a powerful magical train that's headed to the North Pole and Santa Claus's home. What unfolds is an an adventure which follows a doubting boy, who takes an extraordinary train ride to the North Pole; during this ride, he embarks on a journey of self-discovery which shows him that the wonder of life never fades for those who believe.", "imdb" : { "rating" : 6.6, "votes" : 107277, "id" : 338348 }, "year" : 2004, "plot" : "A young boy embarks on a magical adventure to the North Pole on the Polar Express. During his adventure he learns about friendship, bravery, and the spirit of Christmas.", "genres" : [ "Animation", "Adventure", "Family" ], "rated" : "G", "metacritic" : 61, "title" : "The Polar Express", "lastupdated" : "2015-08-25 00:22:58.180000000", "languages" : [ "English" ], "writers" : [ "Chris Van Allsburg (book)", "Robert Zemeckis (screenplay)", "William Broyles Jr. (screenplay)" ], "type" : "movie", "tomatoes" : { "website" : "http://polarexpressmovie.warnerbros.com/", "viewer" : { "rating" : 3.2, "numReviews" : 240019, "meter" : 63 }, "dvd" : ISODate("2005-11-22T00:00:00Z"), "critic" : { "rating" : 6.4, "numReviews" : 199, "meter" : 55 }, "boxOffice" : "$0.5M", "consensus" : "Though the movie is visually stunning overall, the animation for the human characters isn't lifelike enough, and the story is padded.", "rotten" : 89, "production" : "Warner Bros. Pictures", "lastUpdated" : ISODate("2015-09-12T17:54:49Z"), "fresh" : 110 }, "poster" : "https://m.media-amazon.com/images/M/MV5BMTM1NTU0NTE4MV5BMl5BanBnXkFtZTcwMTQ0MjEzMw@@._V1_SY1000_SX677_AL_.jpg", "num_mflix_comments" : 1, "released" : ISODate("2004-11-10T00:00:00Z"), "awards" : { "wins" : 8, "nominations" : 19, "text" : "Nominated for 3 Oscars. Another 5 wins & 19 nominations." }, "countries" : [ "USA" ], "cast" : [ "Tom Hanks", "Leslie Zemeckis", "Eddie Deezen", "Nona Gaye" ], "directors" : [ "Robert Zemeckis" ], "runtime" : 100 }
+{ "_id" : ObjectId("573a13b2f29313caabd3ac0d"), "plot" : "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.", "genres" : [ "Animation", "Adventure", "Comedy" ], "runtime" : 103, "metacritic" : 92, "rated" : "G", "cast" : [ "Tom Hanks", "Tim Allen", "Joan Cusack", "Ned Beatty" ], "poster" : "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_SY1000_SX677_AL_.jpg", "title" : "Toy Story 3", "fullplot" : "Woody, Buzz and the whole gang are back. As their owner Andy prepares to depart for college, his loyal toys find themselves in daycare where untamed tots with their sticky little fingers do not play nice. So, it's all for one and one for all as they join Barbie's counterpart Ken, a thespian hedgehog named Mr. Pricklepants and a pink, strawberry-scented teddy bear called Lots-o'-Huggin' Bear to plan their great escape.", "languages" : [ "English", "Spanish" ], "released" : ISODate("2010-06-18T00:00:00Z"), "directors" : [ "Lee Unkrich" ], "writers" : [ "John Lasseter (story)", "Andrew Stanton (story)", "Lee Unkrich (story)", "Michael Arndt (screenplay)" ], "awards" : { "wins" : 63, "nominations" : 81, "text" : "Won 2 Oscars. Another 61 wins & 81 nominations." }, "lastupdated" : "2015-08-22 00:01:13.297000000", "year" : 2010, "imdb" : { "rating" : 8.4, "votes" : 474122, "id" : 435761 }, "countries" : [ "USA" ], "type" : "movie", "tomatoes" : { "website" : "http://www.disney.com/ToyStory", "viewer" : { "rating" : 4.3, "numReviews" : 601167, "meter" : 89 }, "dvd" : ISODate("2010-11-02T00:00:00Z"), "critic" : { "rating" : 8.9, "numReviews" : 287, "meter" : 99 }, "boxOffice" : "$415.0M", "consensus" : "Deftly blending comedy, adventure, and honest emotion, Toy Story 3 is a rare second sequel that really works.", "rotten" : 4, "production" : "Walt Disney Pictures", "lastUpdated" : ISODate("2015-09-12T18:04:37Z"), "fresh" : 283 } }
+{ "_id" : "!Women Art Revolution", "average_num_of_awards" : 0 }
+{ "_id" : "The Terrorist", "num_of_awards" : 6 }
+50303
+315
+{
+	"_id" : ObjectId("5a9427648b0beebeb69579cc"),
+	"name" : "Andrea Le",
+	"email" : "andrea_le@fakegmail.com",
+	"movie_id" : ObjectId("573a1390f29313caabcd418c"),
+	"text" : "Rem officiis eaque repellendus amet eos doloribus. Porro dolor voluptatum voluptates neque culpa molestias. Voluptate unde nulla temporibus ullam.",
+	"date" : ISODate("2012-03-26T23:20:16Z")
+}
+{
+	"_id" : ObjectId("5a9427648b0beebeb69579cf"),
+	"name" : "Greg Powell",
+	"email" : "greg_powell@fakegmail.com",
+	"movie_id" : ObjectId("573a1390f29313caabcd41b1"),
+	"text" : "Tenetur dolorum molestiae ea. Eligendi praesentium unde quod porro. Commodi nisi sit placeat rerum vero cupiditate neque. Dolorum nihil vero animi.",
+	"date" : ISODate("1987-02-10T00:29:36Z")
+}
+{
+	"_id" : ObjectId("5a9427648b0beebeb69579d0"),
+	"name" : "Talisa Maegyr",
+	"email" : "oona_chaplin@gameofthron.es",
+	"movie_id" : ObjectId("573a1390f29313caabcd41b1"),
+	"text" : "Rem itaque ad sit rem voluptatibus. Ad fugiat maxime illum optio iure alias minus. Optio ratione suscipit corporis qui dicta.",
+	"date" : ISODate("1998-08-22T11:45:03Z")
+}
+{
+	"_id" : ObjectId("5a9427648b0beebeb69579d3"),
+	"name" : "Cameron Duran",
+	"email" : "cameron_duran@fakegmail.com",
+	"movie_id" : ObjectId("573a1390f29313caabcd4217"),
+	"text" : "Quasi dicta culpa asperiores quaerat perferendis neque. Est animi pariatur impedit itaque exercitationem.",
+	"date" : ISODate("1983-04-27T20:39:15Z")
+}
+{
+	"_id" : ObjectId("5a9427648b0beebeb69579d5"),
+	"name" : "Petyr Baelish",
+	"email" : "aidan_gillen@gameofthron.es",
+	"movie_id" : ObjectId("573a1390f29313caabcd4218"),
+	"text" : "Quo deserunt ipsam ipsum. Tenetur eos nemo nam sint praesentium minus exercitationem.",
+	"date" : ISODate("2001-07-13T19:25:09Z")
+}
+{
+	"_id" : ObjectId("5aba8ec855593f150ec0a507"),
+	"name" : "0xlhaxf6r",
+	"email" : "bj8z9yq6h@v0sx6.quh",
+	"movie_id" : ObjectId("573a13eff29313caabdd82f3"),
+	"text" : "feefee",
+	"date" : ISODate("2018-03-27T14:34:48.693Z")
+}
+{
+	"_id" : ObjectId("5acb78ae9885e10750045b4c"),
+	"name" : "0ye0peyb2",
+	"email" : "olqfju87j@thhvv.6n1",
+	"movie_id" : ObjectId("573a13eff29313caabdd82f3"),
+	"text" : "fazzlebizzle",
+	"date" : ISODate("2018-04-09T10:29:04.287Z")
+}
+{
+	"_id" : ObjectId("5ac52dea1c807b0f0dbc3d3f"),
+	"name" : "1dls8ko0o",
+	"email" : "cw6syu8ag@loqly.swo",
+	"movie_id" : ObjectId("573a13eff29313caabdd82f3"),
+	"text" : "fazzlebizzle",
+	"date" : ISODate("2018-04-04T15:56:29.013Z")
+}
+{
+	"_id" : ObjectId("5addfb7055593f69db5e1f0c"),
+	"name" : "1zzyymlks",
+	"email" : "2h8he7jvy@3zca3.4k1",
+	"movie_id" : ObjectId("573a13eff29313caabdd82f3"),
+	"text" : "fazzlebizzle",
+	"date" : ISODate("2018-04-23T11:27:49.334Z")
+}
+{
+	"_id" : ObjectId("5b61bea76daa9395faeca443"),
+	"name" : "261529awx",
+	"email" : "6z6lbylpy@7n4r0.rsl",
+	"movie_id" : ObjectId("573a13eff29313caabdd82f3"),
+	"text" : "fazzlebizzle",
+	"date" : ISODate("2018-08-01T10:07:37.109Z")
+}
+{
+	"_id" : ObjectId("5a9427648b0beebeb6957a32"),
+	"name" : "Megan Richards",
+	"email" : "megan_richards@fakegmail.com",
+	"movie_id" : ObjectId("573a1390f29313caabcd56c3"),
+	"text" : "Mollitia ducimus consequatur excepturi corrupti expedita fugit rem aut. Nisi repellendus non velit tempora maxime. Ducimus recusandae perspiciatis hic vel voluptates.",
+	"date" : ISODate("1976-02-15T11:21:57Z")
+}
+{
+	"_id" : ObjectId("5a9427648b0beebeb6957b70"),
+	"name" : "Megan Richards",
+	"email" : "megan_richards@fakegmail.com",
+	"movie_id" : ObjectId("573a1391f29313caabcd8137"),
+	"text" : "Assumenda omnis unde iure optio sequi. Corrupti hic aut consectetur odit nostrum.",
+	"date" : ISODate("1984-03-28T16:12:25Z")
+}
+{
+	"_id" : ObjectId("5a9427648b0beebeb6957c01"),
+	"name" : "Megan Richards",
+	"email" : "megan_richards@fakegmail.com",
+	"movie_id" : ObjectId("573a1391f29313caabcd8c84"),
+	"text" : "Debitis libero possimus quas asperiores fugiat. Officiis temporibus rem a tempore rerum occaecati. Distinctio reprehenderit harum sed asperiores.",
+	"date" : ISODate("1978-12-25T10:44:46Z")
+}
+{
+	"_id" : ObjectId("5a9427648b0beebeb6957c6e"),
+	"name" : "Megan Richards",
+	"email" : "megan_richards@fakegmail.com",
+	"movie_id" : ObjectId("573a1391f29313caabcd912b"),
+	"text" : "Dolore veritatis ea laudantium iure temporibus quae aliquam. Voluptatum dolorem dolores hic natus.",
+	"date" : ISODate("1983-06-20T11:44:12Z")
+}
+{
+	"_id" : ObjectId("5a9427648b0beebeb6957f02"),
+	"name" : "Megan Richards",
+	"email" : "megan_richards@fakegmail.com",
+	"movie_id" : ObjectId("573a1392f29313caabcda666"),
+	"text" : "Aut perferendis temporibus doloremque fugit cum porro. Voluptatem rem incidunt voluptatem cum. Nostrum voluptatem quasi animi exercitationem ad dolore doloremque.",
+	"date" : ISODate("1997-09-19T09:03:19Z")
+}
+{ "_id" : "Michael Day", "total_num_of_comments" : 282 }
+{ "_id" : "Mace Tyrell", "total_num_of_comments" : 331 }
+
